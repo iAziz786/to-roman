@@ -1,0 +1,9 @@
+{
+  "name": "to-roman",
+  "version": "1.0.0",
+  "description": "This library can convert numbers to their coresponding romal roman number",
+  "main": "index.js",
+  "repository": "https://github.com/iAziz786/to-roman",
+  "author": "Mohammad Aziz",
+  "license": "MIT"
+}
